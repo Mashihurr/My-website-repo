@@ -1,0 +1,12 @@
+/* nav styles */
+nav a {
+    text-decoration: none;
+    color: blue;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(226, 244, 208);
+    border: 2px solid black;
+}
